@@ -3,7 +3,7 @@
 - Fullstack Web3 Dev
 -  Smart contracts, dApps, Nextjs, Reactjs, MongoDB, Sanity, TailwindCSS, Etherjs
 -  If you want a job done feel free to contact me
-- Portfolio and Contact info:  https://fazelpejmanfar.vercel.app/
+- Portfolio and Contact info:  https://fazelpejmanfar.org/
 - Check out https://www.nftmage.xyz/
 <br></br>
 - Tips are Welcomed
